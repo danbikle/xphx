@@ -1,0 +1,143 @@
+Skip to content
+Safari Home
+Recommended
+Playlists
+History
+Topics
+Learning Paths
+Offers & Deals
+Newsletters
+Highlights
+Settings
+Support
+Sign Out
+  
+  
+Cover image for Programming Phoenix
+Programming Phoenix
+  2 REVIEWS
+by Jose Valim, Bruce Tate, Chris McCord
+Publisher: Pragmatic Bookshelf
+Release Date: April 2016
+ISBN: 9781680501452
+Topic: DevOps
+
+START READING NOW
+View table of contents
+Publisher Resources
+Book Description
+Don't accept the compromise between fast and beautiful: you can have it all. Phoenix creator Chris McCord, Elixir creator Jose Valim, and award-winning author Bruce Tate walk you through building an application that's fast and reliable. At every step, you'll learn from the Phoenix creators not just what to do, but why. Packed with insider insights, this definitive guide will be your constant companion in your journey from Phoenix novice to expert, as you build the next generation of web applications.
+
+Publisher Resources
+Errata Page: http://oreilly.com/catalog/9781680501452/errata
+About the Publisher
+ 
+The Pragmatic Programmers are publishers of practical, accessible books on software development techniques and business practices. The Pragmatic Bookshelf imprint features books written by developers for developers, with titles that reflect the award-winning Pragmatic Programmer ...
+
+More about Pragmatic Bookshelf
+Table of Contents
+ Acknowledgments
+José Valim
+Bruce Tate
+Chris McCord
+1. Introducing Phoenix
+Fast
+Concurrent
+Beautiful Code
+Interactive
+Reliable
+Is This Book for You?
+Online Resources
+Part I. Building with Functional MVC
+2. The Lay of the Land
+Simple Functions
+Installing Your Development Environment
+Creating a Throwaway Project
+Building a Feature
+Going Deeper: The Request Pipeline
+Wrapping Up
+3. Controllers, Views, and Templates
+The Controller
+Creating Some Users
+Building a Controller
+Coding Views
+Using Helpers
+Showing a User
+Wrapping Up
+4. Ecto and Changesets
+Understanding Ecto
+Defining the User Schema and Migration
+Using the Repository to Add Data
+Building Forms
+Creating Resources
+Wrapping Up
+5. Authenticating Users
+Preparing for Authentication
+Managing Registration Changesets
+Creating Users
+The Anatomy of a Plug
+Writing an Authentication Plug
+Implementing Login and Logout
+Presenting User Account Links
+Wrapping Up
+6. Generators and Relationships
+Using Generators
+Building Relationships
+Managing Related Data
+Wrapping Up
+7. Ecto Queries and Constraints
+Adding Categories
+Diving Deeper into Ecto Queries
+Constraints
+Wrapping Up
+8. Testing MVC
+Understanding ExUnit
+Using Mix to Run Phoenix Tests
+Integration Tests
+Unit-Testing Plugs
+Testing Views and Templates
+Splitting Side Effects in Model Tests
+Wrapping Up
+Part II. Writing Interactive and Maintainable Applications
+9. Watching Videos
+Watching Videos
+Adding JavaScript
+Creating Slugs
+Wrapping Up
+10. Using Channels
+The Channel
+Phoenix Clients with ES6
+Preparing Our Server for the Channel
+Creating the Channel
+Sending and Receiving Events
+Socket Authentication
+Persisting Annotations
+Handling Disconnects
+Wrapping Up
+11. OTP
+Managing State with Processes
+Building GenServers for OTP
+Supervision Strategies
+Designing an Information System with OTP
+Building the Wolfram Info System
+Wrapping Up
+12. Observer and Umbrellas
+Introspecting with Observer
+Using Umbrellas
+Wrapping Up
+13. Testing Channels and OTP
+Testing the Information System
+Isolating Wolfram
+Adding Tests to Channels
+Authenticating a Test Socket
+Communicating with a Test Channel
+Wrapping Up
+14. What’s Next?What’s Next?
+Other Interesting Features
+What’s Coming Next
+Good Luck
+Find answers on the fly, or master something new. Subscribe today. See pricing options.
+
+back to top
+Recommended Playlists  History Topics Settings Support Get the App Sign Out
+© 2019 Safari. Terms of Service / Privacy Policy
