@@ -8,3 +8,100 @@ https://github.com/phoenixframework/phoenix
 
 https://phoenixframework.org/
 
+https://learning.oreilly.com/library/view/functional-web-development/9781680505436/f_0073.xhtml
+
+book:
+
+
+bookBOOK
+Functional Web Development with Elixir, OTP, and Phoenix
+By Lance Halvorsen
+
+I should install Elixir.
+
+v 1.5.1 is best
+
+goog: how to install elixir on ubuntu
+
+https://elixir-lang.org/install.html
+
+wget https://packages.erlang-solutions.com/erlang-solutions_1.0_all.deb && sudo dpkg -i erlang-solutions_1.0_all.deb
+
+apt update
+
+apt install esl-erlang
+
+apt install elixir
+
+elixir -v
+
+dan@h78:~/dl $ elixir -v
+Erlang/OTP 21 [erts-10.2.3] [source] [64-bit] [smp:8:8] [ds:8:8:10] [async-threads:1] [hipe]
+
+Elixir 1.8.1 (compiled with Erlang/OTP 20)
+dan@h78:~/dl $ 
+dan@h78:~/dl $
+dan@h78:~/dl $
+
+ooooooooooo
+
+prereqs:
+
+programming elixir  from pragpub
+programming phoenix from pragpub
+
+oooooooooo
+
+Nouns I should learn:
+
+Phoenix channels
+
+data structures
+functions
+modules
+
+model
+domain entities
+
+state
+state machine
+finite state machine
+
+game rules
+multiple clauses of a single function
+
+OTP
+concurrency
+parallelism
+fault tolerance
+
+GenServer
+GenServer Module
+
+long-lived process
+
+pair of players
+
+process supervision for recovery
+
+supervisor
+game process state
+
+BEAM
+Erlang Virtual Machine
+
+web interface
+Phoenix
+
+Phoenix project
+
+Phoenix component
+
+Persistent connections
+Phoenix channels
+
+JavaScript functions
+
+Phoenix presence
+
+
